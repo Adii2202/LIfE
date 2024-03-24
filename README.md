@@ -1,2 +1,2 @@
-# Aeravat1.0
-Debug Thugs
+# Aeravat 1.0 
+## LiFE: Language Inclusion for Everyone
