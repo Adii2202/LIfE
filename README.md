@@ -1,2 +1,2 @@
 # Aeravat 1.0 
-## LiFE: Language Inclusion for Everyone
+## LIfE: Language Inclusion for Everyone
